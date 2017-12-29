@@ -81,4 +81,4 @@ After this Spock Tests (Spec) looks in IntelliJ Idea like this:
 
 PS. Idea can autoformat Spock data tables :)
 
-Committing to trigger jenkins
+Committing to trigger jenkins...
